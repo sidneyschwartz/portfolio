@@ -15,9 +15,8 @@ function App() {
       <Navigation></Navigation>
       <header className="App-header">
         <div className='home'>
-          <h1 className='welcome'>Ciao! I’m a visual designer at Brown University 
-          <img className='brown' src={process.env.PUBLIC_URL+'/images/brownu.png'} alt='me'></img>
-
+          <h1 className='welcome'>Hi! I’m Sidney, a senior at Brown University 
+          <img className='brown' src={process.env.PUBLIC_URL+'/images/brownu.png'} alt='Brown University Crest'></img>
           who integrates a 
           passion for solving problems and creating art into design, 
           with the intention of creating accessible products for everyone.

@@ -8,7 +8,7 @@ class Navigation extends React.Component {
         return(
             <Navbar variant="dark" bg="dark" expand="lg" sticky="top">
             <Container>
-              <Navbar.Brand href="#home">happycheetah123</Navbar.Brand>
+              <Navbar.Brand href="#home">Sidney Schwartz</Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
