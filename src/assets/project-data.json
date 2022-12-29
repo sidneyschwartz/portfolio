@@ -1,26 +1,26 @@
 [
     {
-      "name": "Personas and Storyboarding",
+      "name": "iOS App",
       "image": "/images/thermo.png",
-      "link": "https://happycheetah123.github.io/personas/",
-      "description": "While studying UI/UX at Brown, I noticed a ubiquitous interface with problems: a thermostat. Consequently, I stepped into a user’s shoes. After conducting user research and recording key observations, I created personas based on the users and illustrated a storyboard to demonstrate a user's experience. This project provides a framework of a problem that can be used for further design work to come up with a solution for creating simpler and more user-friendly thermostat."
-    },
+      "link": "https://medium.com/@olivia7227/aloe-stories-building-an-ios-app-from-scratch-2c91f540fe9a",
+      "description": "..."
+    }, 
     {
-        "name": "Responsive Redesign",
+        "name": "Chain & Whitepaper",
         "image": "/images/bakery.png",
-        "link": "https://happycheetah123.github.io/responsive-redesign/",
-        "description": "While practicing the workflow of redesigning a simple website, I stumbled across the homepage of Seven Stars Bakery, a staple bakery in Rhode Island. I was surprised to identify multiple usability problems, including multiple accessibility issues. This project provided me the skills necessary to analyze and identify flaws in an existing interface, create low-fidelity and high-fidelity prototypes for various screen sizes, and build a responsive website based on those prototypes."
+        "link": "https://drive.google.com/file/d/1O03sxF57pDHkZuCmFwOLygR7O050fPVz/view",
+        "description": "..."
     },
     {
-        "name": "Iterative Design",
+        "name": "Computer Vision",
         "image": "/images/food.png",
-        "link": "https://sillyduck921.github.io/iterative-design/",
-        "description": "In pursuit of building upon my skillset, I joined a team to execute an iterative design process flow by designing an interactive interface for Heyfood, an emerging startup that provides food delivery services in Africa (a mission we strongly resonated with). This process involved intensive brainstorming, prototyping, critiquing, and user testing. This project allowed us all to improve our pre-design thinking, teamwork, and perhaps most importantly our ability to receive feedback and iterate our design accordingly."
+        "link": "https://entrepreneurship.brown.edu/b-lab/breakthrough-lab-2021/",
+        "description": "..."
     },
     {
-        "name": "Development",
+        "name": "UI/UX Portfolio",
         "image": "/images/football.png",
-        "link": "https://happycheetah123.github.io/development/",
-        "description": "In culmination, I built an interactive interface with components tied to an internal data state using React. Specifically, I developed a list-based application, with the goal of giving users the ability to select from a dashboard of NFL players to add to their wish list. I used filtering and sorting features to address usability concerns. The user’s wish list acts as an aggregator, allowing users to add players to a list while keeping track of the list’s total value. Using skills I’ve picked up along the way from previous projects, I was able to utilize my passions for Software Engineering, Entrepreneurship, and Problem Solving when creating this product."
+        "link": "https://happycheetah123.github.io/final-portfolio/",
+        "description": "..."
     }
   ]

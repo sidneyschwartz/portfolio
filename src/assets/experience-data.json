@@ -1,0 +1,38 @@
+[
+    {
+      "name": "TPG Real Estate",
+      "image": "/images/logos/TPG.png",
+      "link": "https://medium.com/@olivia7227/aloe-stories-building-an-ios-app-from-scratch-2c91f540fe9a",
+      "description": "..."
+    }, 
+    {
+        "name": "WISE Ventures",
+        "image": "/images/logos/WISE2.jpeg",
+        "link": "https://drive.google.com/file/d/1O03sxF57pDHkZuCmFwOLygR7O050fPVz/view",
+        "description": "..."
+    },
+    {
+        "name": "Nelson Center for Entrepreneurship",
+        "image": "/images/logos/nelson.png",
+        "link": "https://entrepreneurship.brown.edu/b-lab/breakthrough-lab-2021/",
+        "description": "..."
+    },
+    {
+        "name": "NFL (Minnesota Vikings)",
+        "image": "/images/logos/vikings.png",
+        "link": "https://happycheetah123.github.io/final-portfolio/",
+        "description": "..."
+    },
+    {
+        "name": "Activision Blizzard",
+        "image": "/images/logos/activisionblizzard.png",
+        "link": "https://happycheetah123.github.io/final-portfolio/",
+        "description": "..."
+    },
+    {
+        "name": "UNINTERRUPTED",
+        "image": "/images/logos/uninterrupted.png",
+        "link": "https://happycheetah123.github.io/final-portfolio/",
+        "description": "..."
+    }
+  ]
