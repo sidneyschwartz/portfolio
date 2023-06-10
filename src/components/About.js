@@ -4,7 +4,7 @@ import APP_CONSTANTS from '../strings';
 function About() {
   return (
     <div className='About'>
-      <h2>What I do</h2>
+      <h2>{retrieveSpotifyPlaylist()}</h2>
       <Accordion className='Accordian' flush>
         <Accordion.Item eventKey="0">
           <Accordion.Header>Private Equity</Accordion.Header>
@@ -27,6 +27,20 @@ function About() {
       </Accordion>
     </div>
 
+  );
+}
+
+function calculateTodaysDate() {
+  let today = new Date();
+  let year = today.getFullYear();
+  let month = today.getMonth() + 1;
+  let day = today.getDate();
+  return month + '/' + day + '/' + year;
+}
+
+function retrieveSpotifyPlaylist() {
+  return (
+    <iframe src="https://open.spotify.com/embed/playlist/3060QiMRfCkYId2bs9e6DM?utm_source=generator" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   );
 }
 

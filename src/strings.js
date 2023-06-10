@@ -1,11 +1,11 @@
 const APP_CONSTANTS = {
-    HEADER: `Hi, I'm Sidney.  
-    I study computer science at Brown University.
-    I'm currently an incoming Private Equity Analyst at Related Fund Management in New York City.`,
+    HEADER: `Hi, I'm Sidney.`,
+    HEADER2:`I recently graduated from Brown University with a degree in Computer Science.
+    I'm currently an incoming Private Equity Analyst at Related in New York City.`,
     PRIVATE_EQUITY: `TPG selected me as the only rising undergraduate senior to be a summer analyst for TPG Real Estate Partners.
     At TPG I learned to build dynamic Real Estate LBO models, while I rotated through
     deal teams within multiple asset classes, mainly focusing on studios.`,
-    SOFTWARE_ENGINEERING: `At Brown I've been tasked with a multitude 
+    SOFTWARE_ENGINEERING: `At Brown I was tasked with a multitude 
     of difficult, rewarding projects. To name a few, I built a simplified example storage 
     system in Go for a cryptocurrency modeled after Bitcoin's storage system. 
     I've developed a program in C from scratch that reads & executes user commands 

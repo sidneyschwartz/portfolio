@@ -15,17 +15,61 @@
 
 .App-header {
   /* background-color: #282c34; */
-  min-height: 100vh;
+  min-height: 50vh;
+  display: flex;
+  flex-direction:column;
+  justify-content:center;
+  font-size: calc(10px + 1.5vmin);
+  color: black;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.App-footer {
+  /* background-color: #282c34; */
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(10px + 1.5vmin);
   color: black;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.body-text{
+  font-size: calc(10px + 1.5vmin);
+  color: black;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.footer-icon {
+  color: rgba(51, 43, 43, 0.723);
+  transition: color 0.3s ease;
+}
+
+.footer-icon:hover {
+  color: black;
+}
+
+.navbar-icon {
+  color: rgba(227, 227, 227, 0.723);
+  transition: color 0.3s ease;
+}
+
+.navbar-icon:hover {
+  color: white;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.GradPic {
+  height: 50vh;
+  padding-bottom: 5vh;
 }
 
 @keyframes App-logo-spin {

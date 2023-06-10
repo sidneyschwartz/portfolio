@@ -93,13 +93,13 @@ h1 {
   /* justify-content: space-evenly; */
   padding-bottom: 10vh;
   /* height: 80vh; */
-  font-size:1.5vw;
+  /* font-size:1.5vw; */
   /* width: 50vw; */
   align-items:center;
   /* background-color: aliceblue; */
   flex-wrap: wrap;
-  padding-left: 25vw;
-  padding-right: 25vw;
+  /* padding-left: 25vw; */
+  /* padding-right: 25vw; */
 }
 
 .home {
@@ -116,9 +116,24 @@ h1 {
   height: 3vw;
 }
 
-.welcome {
+h1 {
   font-size:3vw;
   width: 50vw;
+  text-align: left;
+  padding: 0%;
+  padding-left: 3vw;
+}
+
+h2 {
+  font-size: 1vw;
+  width: 50vw;
+  text-align: start;
+}
+
+p {
+  text-align: start;
+  padding-left: 3vw;
+  padding-right: 3vw;
 }
 
 .icon {

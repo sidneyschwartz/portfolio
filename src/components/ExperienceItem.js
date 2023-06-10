@@ -8,7 +8,7 @@ class ExperienceItem extends React.Component {
                 <h3>{this.props.name}</h3>
                 <p className='ExperienceBody'>{this.props.description}</p>
             </div>
-            <img className='logo' src={process.env.PUBLIC_URL + this.props.image} alt={this.props.image}></img>
+            {/* <img className='logo' src={process.env.PUBLIC_URL + this.props.image} alt={this.props.image}></img> */}
         </div>
     );
     }
