@@ -49,7 +49,7 @@ function App() {
         <div className='App-footer' id='contact'>
         <p>The best way to connect with me is via LinkedIn or Twitter. Feel free to reach out!</p>
           <footer>
-            <Container fluid className="bg-light text-light">
+            <Container fluid className="bg-white text-light">
               <Row>
                 <Col>
                   <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">
@@ -66,6 +66,7 @@ function App() {
           </footer>
         </div>
       </body>
+      Sidney Schwartz &copy; 2023
     </div>
   );
 }
