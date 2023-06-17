@@ -38,7 +38,7 @@ function App() {
       <body id="about">
         <div className='body-text'>
           <p>At Brown, I played Varsity Football for a few years, participated in the Breakthrough Lab accelerator,
-            and was involvued various clubs. I helped start The Optic, Brown's first photography publication. 
+            and was involved in various clubs. I helped start The Optic, Brown's first photography publication. 
             Over the years I also engaged in Ivy Film Festival and Brown Private Equity Club.</p>
           <p>In my freetime, I love playing as well as watching sports, reading, and listening to music.</p>
         </div>
