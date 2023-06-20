@@ -73,7 +73,7 @@ function App() {
 
 function retrieveSpotifyPlaylist() {
   return (
-    <iframe src="https://open.spotify.com/embed/playlist/3060QiMRfCkYId2bs9e6DM?utm_source=generator" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    <iframe title='playlist' src="https://open.spotify.com/embed/playlist/3060QiMRfCkYId2bs9e6DM?utm_source=generator" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   );
 }
 
